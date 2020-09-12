@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "NFkCCZZzN234B1K6xppzTpzMJnKLnpqepb8hfUiivH6tnmOuP/4tppxu2P/GkTGwGf/QuBTh4cJwg6kWfivtpw==",
+  "success": true,
+  "projectFilePath": "C:\\local_repos\\ModernUi\\ModernUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\commonwin32\\2.1.0.3\\commonwin32.2.1.0.3.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\mahapps.metro.iconpacks\\4.4.0\\mahapps.metro.iconpacks.4.4.0.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\modernwpf\\1.4.6\\modernwpf.1.4.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CommonWin32 2.1.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "CommonWin32",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ModernWPF 1.4.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "ModernWPF",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
